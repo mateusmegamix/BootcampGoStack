@@ -1,0 +1,14 @@
+src
+  config
+  database
+  errors
+  middlewares
+  models
+  repositories
+  routes
+  services
+
+Domínio: Qual a área de conhecimento daquele módulo/arquivo
+
+DDD: Domain Driven Design (metodologia)
+Tdd: Teste Driven Development (metodologia)
